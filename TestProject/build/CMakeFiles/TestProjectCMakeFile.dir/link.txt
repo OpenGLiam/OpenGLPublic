@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/TestProjectCMakeFile.dir/src/main.cpp.o -o TestProjectCMakeFile  -lglfw 
